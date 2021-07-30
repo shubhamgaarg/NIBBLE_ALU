@@ -1,0 +1,333 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\pnb\Desktop\EE_232_ASSIGN\simulation\modelsim
+Eand_2
+Z1 w1602180187
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\pnb\Desktop\EE_232_ASSIGN\simulation\modelsim
+Z5 8C:/Users/pnb/Desktop/EE_232_ASSIGN/AND_2.vhd
+Z6 FC:/Users/pnb/Desktop/EE_232_ASSIGN/AND_2.vhd
+l0
+L4
+V8Td2J2=e5Dgc=QY5Y7]cH1
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1603972805.499000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/AND_2.vhd|
+Z10 !s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/AND_2.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 P:1Ka8BBdfPF[A<57A0iW0
+!i10b 1
+Afunc
+R2
+R3
+DEx4 work 5 and_2 0 22 8Td2J2=e5Dgc=QY5Y7]cH1
+l10
+L9
+VA:aIP9Tl8hH47cmkH9ga^2
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 O43=HjA^d>gc8aeLj`g[;1
+!i10b 1
+Pee_232_packg
+R2
+R3
+w1603825625
+R4
+8C:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_PACKG.vhd
+FC:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_PACKG.vhd
+l0
+L3
+VhdM`:0K@7T[OB<C;S7Fn:2
+R7
+31
+R11
+R12
+!s100 B`MI4Weg]Y@_5JQ`RNjOg2
+!i10b 1
+!s108 1603972808.047000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_PACKG.vhd|
+!s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_PACKG.vhd|
+Pee_232_q1
+R2
+R3
+w1602226430
+R4
+8C:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_Q1.vhd
+FC:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_Q1.vhd
+l0
+L4
+VzdFKmebE`D]PA6j0GW;3@1
+R7
+31
+R11
+R12
+!s100 8kI@9We;G2H?m`gd^8Dg^0
+!i10b 1
+!s108 1603972807.355000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_Q1.vhd|
+!s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_Q1.vhd|
+Efour_bit_adder
+Z13 w1603825828
+R2
+R3
+R4
+Z14 8C:/Users/pnb/Desktop/EE_232_ASSIGN/FOUR_BIT_ADDER.vhd
+Z15 FC:/Users/pnb/Desktop/EE_232_ASSIGN/FOUR_BIT_ADDER.vhd
+l0
+L4
+VINDP3Io@H>8Hz`@3485KW1
+R7
+31
+Z16 !s108 1603972808.486000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/FOUR_BIT_ADDER.vhd|
+Z18 !s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/FOUR_BIT_ADDER.vhd|
+R11
+R12
+!s100 n[7IBM;R7V@T6ZVJgP0N70
+!i10b 1
+Astructure
+R2
+R3
+DEx4 work 14 four_bit_adder 0 22 INDP3Io@H>8Hz`@3485KW1
+l16
+L9
+V_MWYiJF4g6_0bG`m=Cn0O0
+R7
+31
+R16
+R17
+R18
+R11
+R12
+!s100 ;WaNWX]zcBFFZASGifCC13
+!i10b 1
+Efull_adder
+Z19 w1602188459
+Z20 DPx4 work 12 ee_232_packg 0 22 hdM`:0K@7T[OB<C;S7Fn:2
+Z21 DPx4 work 9 ee_232_q1 0 22 zdFKmebE`D]PA6j0GW;3@1
+R2
+R3
+R4
+Z22 8C:/Users/pnb/Desktop/EE_232_ASSIGN/FULL_ADDER.vhd
+Z23 FC:/Users/pnb/Desktop/EE_232_ASSIGN/FULL_ADDER.vhd
+l0
+L6
+V5d1K0nBoK0JX[@oH]oDa^1
+R7
+31
+Z24 !s108 1603972809.626000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/FULL_ADDER.vhd|
+Z26 !s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/FULL_ADDER.vhd|
+R11
+R12
+!s100 [lo33V8U>Oa8i=GIBMo4n1
+!i10b 1
+Astructure
+R20
+R21
+R2
+R3
+DEx4 work 10 full_adder 0 22 5d1K0nBoK0JX[@oH]oDa^1
+l14
+L11
+V[86SaYDmeAZhlM7T1z7Pf0
+R7
+31
+R24
+R25
+R26
+R11
+R12
+!s100 e:M8ZY66C;<_dEJRQ?ohc2
+!i10b 1
+Ehalf_adder
+Z27 w1602182796
+R2
+R3
+R4
+Z28 8C:/Users/pnb/Desktop/EE_232_ASSIGN/half_adder.vhd
+Z29 FC:/Users/pnb/Desktop/EE_232_ASSIGN/half_adder.vhd
+l0
+L4
+VCazZMU9n]hg0d>@MYz0z30
+R7
+31
+Z30 !s108 1603972807.600000
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/half_adder.vhd|
+Z32 !s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/half_adder.vhd|
+R11
+R12
+!s100 URgSC[]8S5[Pl7_fj4VZJ3
+!i10b 1
+Astr
+R2
+R3
+DEx4 work 10 half_adder 0 22 CazZMU9n]hg0d>@MYz0z30
+l18
+L9
+Va3P4MAek`^@:@zkGl]]0O1
+R7
+31
+R30
+R31
+R32
+R11
+R12
+!s100 CE`mIMPmcABk1BWW>Wk9o0
+!i10b 1
+Emultiply_4
+Z33 w1603972560
+R20
+R21
+R2
+R3
+R4
+Z34 8C:/Users/pnb/Desktop/EE_232_ASSIGN/MULTIPLY_4.vhd
+Z35 FC:/Users/pnb/Desktop/EE_232_ASSIGN/MULTIPLY_4.vhd
+l0
+L5
+VPN9EOKNL0MzTfUZ1;fmfA3
+!s100 TS9US_GR2h:4g;fYa2k:N0
+R7
+31
+!i10b 1
+Z36 !s108 1603972810.089000
+Z37 !s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/MULTIPLY_4.vhd|
+Z38 !s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/MULTIPLY_4.vhd|
+R11
+R12
+Afunc
+R20
+R21
+R2
+R3
+DEx4 work 10 multiply_4 0 22 PN9EOKNL0MzTfUZ1;fmfA3
+l11
+L9
+V]U8FiHNElhm2];T6gTgLV2
+!s100 L?HAlBMVgCgE7VcRV[Cf60
+R7
+31
+!i10b 1
+R36
+R37
+R38
+R11
+R12
+Enot_2
+Z39 w1602226061
+R2
+R3
+R4
+Z40 8C:/Users/pnb/Desktop/EE_232_ASSIGN/NOT_2.vhd
+Z41 FC:/Users/pnb/Desktop/EE_232_ASSIGN/NOT_2.vhd
+l0
+L3
+V9baJX3AmVGeX@4055]8ZN3
+R7
+31
+Z42 !s108 1603972806.477000
+Z43 !s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/NOT_2.vhd|
+Z44 !s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/NOT_2.vhd|
+R11
+R12
+!s100 7C>>1co^R0FK]WmlTn4QU1
+!i10b 1
+Afunc
+R2
+R3
+DEx4 work 5 not_2 0 22 9baJX3AmVGeX@4055]8ZN3
+l9
+L8
+V14m<k5Ue``G7L?c>7PSal2
+R7
+31
+R42
+R43
+R44
+R11
+R12
+!s100 O2Q1`:jV[2VdmFR^MGnd[2
+!i10b 1
+Eor_2
+Z45 w1602180313
+R2
+R3
+R4
+Z46 8C:/Users/pnb/Desktop/EE_232_ASSIGN/OR_2.vhd
+Z47 FC:/Users/pnb/Desktop/EE_232_ASSIGN/OR_2.vhd
+l0
+L4
+Vol_cdaR>Bf;OVgBGN9C;o0
+R7
+31
+Z48 !s108 1603972805.916000
+Z49 !s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/OR_2.vhd|
+Z50 !s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/OR_2.vhd|
+R11
+R12
+!s100 f]D1TNl[OdWP`BRn=@goJ2
+!i10b 1
+Afunc
+R2
+R3
+DEx4 work 4 or_2 0 22 ol_cdaR>Bf;OVgBGN9C;o0
+l10
+L9
+V?iXcKWX7gM4nehW@iE<`_2
+R7
+31
+R48
+R49
+R50
+R11
+R12
+!s100 oR@5<1[UPYSBk2Be3<B362
+!i10b 1
+Exor_2
+Z51 w1602226511
+R21
+R2
+R3
+R4
+Z52 8C:/Users/pnb/Desktop/EE_232_ASSIGN/XOR_2.vhd
+Z53 FC:/Users/pnb/Desktop/EE_232_ASSIGN/XOR_2.vhd
+l0
+L4
+V2j6[X[:o=I<giYkAmzM>G3
+R7
+31
+Z54 !s108 1603972809.139000
+Z55 !s90 -reportprogress|300|-93|-work|work|C:/Users/pnb/Desktop/EE_232_ASSIGN/XOR_2.vhd|
+Z56 !s107 C:/Users/pnb/Desktop/EE_232_ASSIGN/XOR_2.vhd|
+R11
+R12
+!s100 nKj6<;;k24Zjk3mPcHmz53
+!i10b 1
+Astr
+R21
+R2
+R3
+DEx4 work 5 xor_2 0 22 2j6[X[:o=I<giYkAmzM>G3
+l10
+L8
+VeF7a?]maB=aMMeINEEEcS3
+R7
+31
+R54
+R55
+R56
+R11
+R12
+!s100 KA7<Ek0Z9colgdoK@^`<63
+!i10b 1

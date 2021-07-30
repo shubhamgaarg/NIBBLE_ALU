@@ -1,0 +1,20 @@
+LIBRARY ieee;
+USE IEEE.STD_LOGIC_1164;
+package EE_232_Q1 is 
+
+component AND_2 is 
+	port (I0 ,I1:IN std_logic;
+			O0 : OUT std_logic);
+end component;
+
+component OR_2 is 
+	port (I0 ,I1:IN std_logic;
+			O0 : OUT std_logic);
+end component;
+
+component NOT_1 IS
+	PORT (I0: IN STD_LOGIC;
+			O0 : OUT STD_LOGIC);
+END component;
+
+end package;

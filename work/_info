@@ -1,0 +1,559 @@
+m255
+K3
+13
+cModel Technology
+dF:\Vivado
+Ealu_4
+Z0 w1603974498
+Z1 DPx4 work 12 ee_232_packg 0 22 MLd_AzUDQ[D]LK8FDBga63
+Z2 DPx4 work 9 ee_232_q1 0 22 <Ym`P32gPZ9KdTl7F<hjh0
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\shubh\OneDrive\Desktop\Nibble_ALU
+Z6 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/ALU_4.vhd
+Z7 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/ALU_4.vhd
+l0
+L5
+VBGSzifTLh24f0CCm_7QTN1
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1627664651.263000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/ALU_4.vhd|
+Z11 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/ALU_4.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 F>AM_MViZKYkgeG:`CL353
+!i10b 1
+Afunc
+R1
+R2
+R3
+R4
+DEx4 work 5 alu_4 0 22 BGSzifTLh24f0CCm_7QTN1
+l19
+L13
+VW`KeJ_OE85^M5Bc7DageB1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 N;aU`ODNn5gW2Z`U[?f0[0
+!i10b 1
+Eand_2
+Z14 w1602180187
+R3
+R4
+R5
+Z15 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/AND_2.vhd
+Z16 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/AND_2.vhd
+l0
+L4
+V[kJY91HbY@W^bBVGag>2^1
+R8
+32
+Z17 !s108 1627664651.483000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/AND_2.vhd|
+Z19 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/AND_2.vhd|
+R12
+R13
+!s100 P:1Ka8BBdfPF[A<57A0iW0
+!i10b 1
+Afunc
+R3
+R4
+DEx4 work 5 and_2 0 22 [kJY91HbY@W^bBVGag>2^1
+l10
+L9
+VW94INKb4XSmNmcUGSK;<11
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 O43=HjA^d>gc8aeLj`g[;1
+!i10b 1
+Pee_232_packg
+R3
+R4
+w1603974296
+R5
+8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_PACKG.vhd
+FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_PACKG.vhd
+l0
+L3
+VMLd_AzUDQ[D]LK8FDBga63
+R8
+32
+R12
+R13
+!s100 n8EhKmMFHFjFdFFDZdOFH3
+!i10b 1
+!s108 1627664651.808000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_PACKG.vhd|
+!s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_PACKG.vhd|
+Pee_232_q1
+R3
+R4
+w1602226430
+R5
+8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_Q1.vhd
+FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_Q1.vhd
+l0
+L4
+V<Ym`P32gPZ9KdTl7F<hjh0
+R8
+32
+R12
+R13
+!s100 8kI@9We;G2H?m`gd^8Dg^0
+!i10b 1
+!s108 1627664652.129000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_Q1.vhd|
+!s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_Q1.vhd|
+Efour_bit_adder
+Z20 w1603825828
+R3
+R4
+R5
+Z21 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FOUR_BIT_ADDER.vhd
+Z22 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FOUR_BIT_ADDER.vhd
+l0
+L4
+Vg2OOjR^`POkQIbO[IlOnc0
+R8
+32
+Z23 !s108 1627664652.498000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FOUR_BIT_ADDER.vhd|
+Z25 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FOUR_BIT_ADDER.vhd|
+R12
+R13
+!s100 n[7IBM;R7V@T6ZVJgP0N70
+!i10b 1
+Astructure
+R3
+R4
+DEx4 work 14 four_bit_adder 0 22 g2OOjR^`POkQIbO[IlOnc0
+l16
+L9
+VCh;Ce8>?o:336bOJY[]:Y0
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!s100 ;WaNWX]zcBFFZASGifCC13
+!i10b 1
+Efull_adder
+Z26 w1602188459
+R1
+R2
+R3
+R4
+R5
+Z27 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FULL_ADDER.vhd
+Z28 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FULL_ADDER.vhd
+l0
+L6
+V`:dTCzPN<B=<2P;Zg53BQ2
+R8
+32
+Z29 !s108 1627664652.822000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FULL_ADDER.vhd|
+Z31 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FULL_ADDER.vhd|
+R12
+R13
+!s100 [lo33V8U>Oa8i=GIBMo4n1
+!i10b 1
+Astructure
+R1
+R2
+R3
+R4
+DEx4 work 10 full_adder 0 22 `:dTCzPN<B=<2P;Zg53BQ2
+l14
+L11
+V^zK`2OF5aG9CFbNmoP7f81
+R8
+32
+R29
+R30
+R31
+R12
+R13
+!s100 e:M8ZY66C;<_dEJRQ?ohc2
+!i10b 1
+Ehalf_adder
+Z32 w1602182796
+R3
+R4
+R5
+Z33 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/half_adder.vhd
+Z34 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/half_adder.vhd
+l0
+L4
+Vmd^W<RTPFb@HEb`TCK=BD0
+R8
+32
+Z35 !s108 1627664653.233000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/half_adder.vhd|
+Z37 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/half_adder.vhd|
+R12
+R13
+!s100 URgSC[]8S5[Pl7_fj4VZJ3
+!i10b 1
+Astr
+R3
+R4
+DEx4 work 10 half_adder 0 22 md^W<RTPFb@HEb`TCK=BD0
+l18
+L9
+V[c>Y=;EcCjRD^TGRnX8Pl1
+R8
+32
+R35
+R36
+R37
+R12
+R13
+!s100 CE`mIMPmcABk1BWW>Wk9o0
+!i10b 1
+Emultiply_4
+Z38 w1603974320
+R1
+R2
+R3
+R4
+R5
+Z39 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MULTIPLY_4.vhd
+Z40 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MULTIPLY_4.vhd
+l0
+L5
+VZ:CJ1QT3i?gJHQ7j<_QN^1
+R8
+32
+Z41 !s108 1627664653.628000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MULTIPLY_4.vhd|
+Z43 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MULTIPLY_4.vhd|
+R12
+R13
+!s100 i6^606bbzm<aSY>oMLY>Z3
+!i10b 1
+Afunc
+R1
+R2
+R3
+R4
+DEx4 work 10 multiply_4 0 22 Z:CJ1QT3i?gJHQ7j<_QN^1
+l11
+L9
+Vn<30j5h3oROXTW6PKKBoQ0
+R8
+32
+R41
+R42
+R43
+R12
+R13
+!s100 L?HAlBMVgCgE7VcRV[Cf60
+!i10b 1
+Emux_16_4
+Z44 w1603823734
+R1
+R3
+R4
+R5
+Z45 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_16_4.vhd
+Z46 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_16_4.vhd
+l0
+L5
+VPTUo2YNB?h39[jnYBP<lI2
+R8
+32
+Z47 !s108 1627664655.151000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_16_4.vhd|
+Z49 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_16_4.vhd|
+R12
+R13
+!s100 1HCK2GUSPeKYNAYNXV@f00
+!i10b 1
+Afunc
+R1
+R3
+R4
+DEx4 work 8 mux_16_4 0 22 PTUo2YNB?h39[jnYBP<lI2
+l13
+L12
+V4S`X[f<i:eZ7h9:=onI:A1
+R8
+32
+R47
+R48
+R49
+R12
+R13
+!s100 Q::=X4E<5_KGDbB]meSUE0
+!i10b 1
+Emux_2_1
+Z50 w1603091151
+R2
+R3
+R4
+R5
+Z51 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_2_1.vhd
+Z52 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_2_1.vhd
+l0
+L4
+V2k3RGz`<gQfPPMHX7aM]^2
+R8
+32
+Z53 !s108 1627664654.009000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_2_1.vhd|
+Z55 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_2_1.vhd|
+R12
+R13
+!s100 6D=a5_[5LW1eM5bz19zgo0
+!i10b 1
+Afunc
+R2
+R3
+R4
+DEx4 work 7 mux_2_1 0 22 2k3RGz`<gQfPPMHX7aM]^2
+l10
+L8
+VHfmZXC_KAO1]<7[T:c5g73
+R8
+32
+R53
+R54
+R55
+R12
+R13
+!s100 NYo_jD5WCHRJGa193]`1F1
+!i10b 1
+Emux_4_1
+Z56 w1603823349
+R1
+R3
+R4
+R5
+Z57 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_4_1.vhd
+Z58 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_4_1.vhd
+l0
+L4
+VEcdbf=Ki39F[FFCV?XUjc2
+R8
+32
+Z59 !s108 1627664654.371000
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_4_1.vhd|
+Z61 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_4_1.vhd|
+R12
+R13
+!s100 VKOXiGH?`EKi=@1Z]IdFQ3
+!i10b 1
+Afunc
+R1
+R3
+R4
+DEx4 work 7 mux_4_1 0 22 Ecdbf=Ki39F[FFCV?XUjc2
+l12
+L10
+VeeTfAdZJaZLB[QSk5`A9Z1
+R8
+32
+R59
+R60
+R61
+R12
+R13
+!s100 1eCERbV;RM6l`9HLo_d]X3
+!i10b 1
+Emux_8_1
+Z62 w1603824668
+R1
+R3
+R4
+R5
+Z63 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_8_1.vhd
+Z64 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_8_1.vhd
+l0
+L4
+V@A[L3[T7NhEoZJoU4QMeX3
+R8
+32
+Z65 !s108 1627664654.669000
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_8_1.vhd|
+Z67 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_8_1.vhd|
+R12
+R13
+!s100 Wa<V0:B<6JR?=ljaY;8B91
+!i10b 1
+Afunc
+R1
+R3
+R4
+DEx4 work 7 mux_8_1 0 22 @A[L3[T7NhEoZJoU4QMeX3
+l12
+L10
+V:TkGWFNRYd`9n0Cm5`n@^0
+R8
+32
+R65
+R66
+R67
+R12
+R13
+!s100 jX]o40<]48iholCR4>8=G1
+!i10b 1
+Enot_2
+Z68 w1602226061
+R3
+R4
+R5
+Z69 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/NOT_2.vhd
+Z70 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/NOT_2.vhd
+l0
+L3
+VjOiZEHlj02_DiadZ^?jnz0
+R8
+32
+Z71 !s108 1627664655.611000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/NOT_2.vhd|
+Z73 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/NOT_2.vhd|
+R12
+R13
+!s100 7C>>1co^R0FK]WmlTn4QU1
+!i10b 1
+Afunc
+R3
+R4
+DEx4 work 5 not_2 0 22 jOiZEHlj02_DiadZ^?jnz0
+l9
+L8
+VCZIOTolSCZ<[InGh0ZmUS1
+R8
+32
+R71
+R72
+R73
+R12
+R13
+!s100 O2Q1`:jV[2VdmFR^MGnd[2
+!i10b 1
+Eor_2
+Z74 w1602180313
+R3
+R4
+R5
+Z75 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/OR_2.vhd
+Z76 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/OR_2.vhd
+l0
+L4
+VV]@93Kn^R>:C_Eb_R01af0
+R8
+32
+Z77 !s108 1627664655.954000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/OR_2.vhd|
+Z79 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/OR_2.vhd|
+R12
+R13
+!s100 f]D1TNl[OdWP`BRn=@goJ2
+!i10b 1
+Afunc
+R3
+R4
+DEx4 work 4 or_2 0 22 V]@93Kn^R>:C_Eb_R01af0
+l10
+L9
+V1G=N<PEbjP3;^>KHBgFSF1
+R8
+32
+R77
+R78
+R79
+R12
+R13
+!s100 oR@5<1[UPYSBk2Be3<B362
+!i10b 1
+Esub_4
+Z80 w1603825925
+R1
+R2
+R3
+R4
+R5
+Z81 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/SUB_4.vhd
+Z82 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/SUB_4.vhd
+l0
+L5
+V::3HoCb7>?DcBz<mG1FUW2
+R8
+32
+Z83 !s108 1627664656.288000
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/SUB_4.vhd|
+Z85 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/SUB_4.vhd|
+R12
+R13
+!s100 8kTiFSBce3OEBieN_Bci>0
+!i10b 1
+Afunc
+R1
+R2
+R3
+R4
+DEx4 work 5 sub_4 0 22 ::3HoCb7>?DcBz<mG1FUW2
+l11
+L9
+VBhEM2fAjl`o]12TdBHAFl2
+!s100 CH6Zaeh7H?B7eb<[YYG5N3
+R8
+32
+R83
+R84
+R85
+R12
+R13
+!i10b 1
+Exor_2
+Z86 w1602226511
+R2
+R3
+R4
+R5
+Z87 8C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/XOR_2.vhd
+Z88 FC:/Users/shubh/OneDrive/Desktop/Nibble_ALU/XOR_2.vhd
+l0
+L4
+VzWhoUE38Z8k`BKk<IYEIn1
+!s100 nKj6<;;k24Zjk3mPcHmz53
+R8
+32
+!i10b 1
+Z89 !s108 1627664656.644000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/XOR_2.vhd|
+Z91 !s107 C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/XOR_2.vhd|
+R12
+R13
+Astr
+R2
+R3
+R4
+Z92 DEx4 work 5 xor_2 0 22 zWhoUE38Z8k`BKk<IYEIn1
+l10
+L8
+Z93 V>?Z:[2V5m[DZ=]K=AIdSE3
+Z94 !s100 KA7<Ek0Z9colgdoK@^`<63
+R8
+32
+!i10b 1
+R89
+R90
+R91
+R12
+R13

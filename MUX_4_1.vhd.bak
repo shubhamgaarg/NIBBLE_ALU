@@ -1,0 +1,17 @@
+librARy ieee;
+use ieee.std_logic_1164.all;
+
+entity mux_4_1 is 
+port (x0,x1,x2,x3 : in std_logic ;
+      S : in std_logic_vector(1 downto 0);
+      y : out std_logic);
+end entity;
+architecture func of mux_4_1 is
+begin
+with S select
+Y<= X0 WHEN "00",
+	 X1 WHEN "01",
+	 X2 WHEN "10"
+	 X3 WHEN OTHERS;
+	 
+END FUNC;

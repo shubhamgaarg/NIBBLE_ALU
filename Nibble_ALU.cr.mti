@@ -1,0 +1,140 @@
+C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/XOR_2.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/XOR_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_Q1
+-- Compiling entity XOR_2
+-- Compiling architecture STR of XOR_2
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/half_adder.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/half_adder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity half_adder
+-- Compiling architecture str of half_adder
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MULTIPLY_4.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MULTIPLY_4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_Q1
+-- Loading package EE_232_PACKG
+-- Compiling entity multiply_4
+-- Compiling architecture FUNC of MULTIPLY_4
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_16_4.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_16_4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_PACKG
+-- Compiling entity mux_16_4
+-- Compiling architecture FUNC of mux_16_4
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/AND_2.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/AND_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AND_2
+-- Compiling architecture FUNC of AND_2
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/SUB_4.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/SUB_4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_Q1
+-- Loading package EE_232_PACKG
+-- Compiling entity SUB_4
+-- Compiling architecture FUNC of SUB_4
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/ALU_4.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/ALU_4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_Q1
+-- Loading package EE_232_PACKG
+-- Compiling entity ALU_4
+-- Compiling architecture FUNC of ALU_4
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_Q1.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_Q1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package EE_232_Q1
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FOUR_BIT_ADDER.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FOUR_BIT_ADDER.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FOUR_BIT_ADDER
+-- Compiling architecture STRUCTURE of FOUR_BIT_ADDER
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/OR_2.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/OR_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OR_2
+-- Compiling architecture FUNC of OR_2
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/NOT_2.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/NOT_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOT_2
+-- Compiling architecture FUNC of NOT_2
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FULL_ADDER.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/FULL_ADDER.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_Q1
+-- Loading package EE_232_PACKG
+-- Compiling entity FULL_ADDER
+-- Compiling architecture STRUCTURE of FULL_ADDER
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_2_1.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/mux_2_1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_Q1
+-- Compiling entity mux_2_1
+-- Compiling architecture func of mux_2_1
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_PACKG.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/EE_232_PACKG.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package EE_232_PACKG
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_4_1.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_4_1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_PACKG
+-- Compiling entity mux_4_1
+-- Compiling architecture FUNC of mux_4_1
+
+} {} {}} C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_8_1.vhd {1 {vcom -work work -2002 -explicit C:/Users/shubh/OneDrive/Desktop/Nibble_ALU/MUX_8_1.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package EE_232_PACKG
+-- Compiling entity MUX_8_1
+-- Compiling architecture FUNC of MUX_8_1
+
+} {} {}}

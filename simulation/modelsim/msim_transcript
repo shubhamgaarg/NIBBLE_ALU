@@ -1,0 +1,123 @@
+# Reading F:/EE_232_COURSE/EE_232/modelsim_ase/tcl/vsim/pref.tcl 
+# do EE_232_ASSIGN_1_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying F:\EE_232_COURSE\EE_232\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied F:\EE_232_COURSE\EE_232\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/AND_2.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity AND_2
+# -- Compiling architecture FUNC of AND_2
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/OR_2.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity OR_2
+# -- Compiling architecture FUNC of OR_2
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/NOT_2.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity NOT_2
+# -- Compiling architecture FUNC of NOT_2
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_Q1.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package EE_232_Q1
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/half_adder.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity half_adder
+# -- Compiling architecture str of half_adder
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/EE_232_PACKG.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package EE_232_PACKG
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/FOUR_BIT_ADDER.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity FOUR_BIT_ADDER
+# -- Compiling architecture STRUCTURE of FOUR_BIT_ADDER
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/XOR_2.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package EE_232_Q1
+# -- Compiling entity XOR_2
+# -- Compiling architecture STR of XOR_2
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/FULL_ADDER.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package EE_232_Q1
+# -- Loading package EE_232_PACKG
+# -- Compiling entity FULL_ADDER
+# -- Compiling architecture STRUCTURE of FULL_ADDER
+# vcom -93 -work work {C:/Users/pnb/Desktop/EE_232_ASSIGN/MULTIPLY_4.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package EE_232_Q1
+# -- Loading package EE_232_PACKG
+# -- Compiling entity multiply_4
+# -- Compiling architecture FUNC of MULTIPLY_4
+# 
+vsim work.multiply_4
+# vsim work.multiply_4 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.ee_232_q1
+# Loading work.ee_232_packg
+# Loading work.multiply_4(func)
+# Loading work.and_2(func)
+# Loading work.four_bit_adder(structure)
+# Loading work.full_adder(structure)
+# Loading work.half_adder(str)
+# Loading work.xor_2(str)
+# Loading work.not_2(func)
+# Loading work.or_2(func)
+add wave -position insertpoint  \
+sim:/multiply_4/P7 \
+sim:/multiply_4/P6 \
+sim:/multiply_4/P5 \
+sim:/multiply_4/P4 \
+sim:/multiply_4/P3 \
+sim:/multiply_4/P2 \
+sim:/multiply_4/P1 \
+sim:/multiply_4/P0 \
+sim:/multiply_4/B \
+sim:/multiply_4/A
+force -freeze sim:/multiply_4/A 1000 0
+force -freeze sim:/multiply_4/B 0100 0
+run
+force -freeze sim:/multiply_4/A 1111 0
+run
+force -freeze sim:/multiply_4/B 0110 0
+run
+force -freeze sim:/multiply_4/A 1101 0
+run
+force -freeze sim:/multiply_4/B 1010 0
+run

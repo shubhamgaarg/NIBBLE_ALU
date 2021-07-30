@@ -1,0 +1,18 @@
+LIBRARY ieee ;
+USE ieee.std_logic_1164.all ;
+use work.EE_232_PACKG.ALL;
+ENTITY mux_4_1 IS
+PORT ( x0, x1, x2, x3 : IN STD_LOGIC ;
+S : IN STD_LOGIC_VECTOR(1 DOWNTO 0) ;
+Y : OUT STD_LOGIC ) ;
+
+END mux_4_1 ;
+ARCHITECTURE FUNC OF mux_4_1 IS
+SIGNAL A, B: STD_LOGIC;
+BEGIN 
+
+M0 : MUX_2_1 PORT MAP (X0, X1, S(0), A);
+M1 : MUX_2_1 PORT MAP (X2, X3, S(0), B);
+M2 : MUX_2_1 PORT MAP (A, B, S(1), Y);
+
+END FUNC ;
